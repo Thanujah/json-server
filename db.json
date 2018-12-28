@@ -1,9 +1,73 @@
+{"packagesnew": [
+    {
+       "id": 1,
+       "name": "Basic Hand Wash1",
+       "price": "150.00",
+       "service": [
+           {
+               "id": 1,
+               "name": "Service1",
+               "service_status":1,
+               "price":60.00,
+               "duration":20
+           },
+           {
+               "id": 2,
+               "name": "Service2",
+               "service_status":2,
+               "price":60.00,
+               "duration":20
+           },
+
+           {
+               "id": 2,
+               "name": "Service1"
+           }
+       ],
+       "duration": 60
+   },
+   {
+       "id": 2,
+       "name": "Deluxe Wash1",
+       "price": "1100.00",
+       "service": [
+           {
+               "id": 1,
+               "name": "Service1",
+               "service_status":1
+
+           }
+       ],
+       "duration": 20
+   },
+
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+       "id": 3,
+       "name": "Ultimate shine1",
+       "price": "1150.00",
+       "service": [
+           {
+               "id": 1,
+               "name": "Service1",
+               "service_status":1
+           }
+       ],
+       "duration": 40
+   },
+
+{
+       "id": 4,
+       "name": "Platinum Works1",
+       "price": "1200.00",
+       "service": [
+           {
+               "id": 1,
+               "name": "Service1",
+               "service_status":1
+
+           }
+       ],
+       "duration": 20
+   }
+]
+
